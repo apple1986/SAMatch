@@ -8,4 +8,4 @@ https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17785
 Xu, Guoping, et al. "A segment anything model‐guided and match‐based semi‐supervised segmentation framework for medical imaging." Medical physics (2025).
 
 
-The code will be uploaded soon in this month.
+The code will be uploaded soon in this month when I am available.
