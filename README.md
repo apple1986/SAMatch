@@ -1,6 +1,10 @@
 The dataset and model can be downloaded in https://drive.google.com/drive/folders/1Kg1-fbFq2PD9N9Gqy9uLRKyxyivRlRED?usp=sharing
+
 Please mkdir a folder named checkpoint, and unzip the model (SAM) into this folder.
+
 Please unzip the dataset (ACDC and BUSI) into the data folder
+
+Please use the default splitting for train, validation and testing datasets for fair comparison.
 
 # SAMatch
 SAMatch： SAM-Guided and Match-based Semi-Supervised Segmentation for Medical Image
